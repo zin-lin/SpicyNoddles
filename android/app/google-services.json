@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "563232830851",
+    "firebase_url": "https://mymatefood.firebaseio.com",
+    "project_id": "mymatefood",
+    "storage_bucket": "mymatefood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563232830851:android:4744d38064435335c7b2b6",
+        "android_client_info": {
+          "package_name": "com.mymate.annex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563232830851-3i5d1mm86v40hs91irt85nk54ab6ah7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqzy0UgnbCRo8t_hulpZjigKNRRJomEao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563232830851-3i5d1mm86v40hs91irt85nk54ab6ah7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
